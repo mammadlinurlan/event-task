@@ -29,6 +29,10 @@ body {
   display: none !important;
 }
 
+.active {
+  background-color: red;
+}
+
 .fullBox {
   display: -webkit-box;
   display: -ms-flexbox;
